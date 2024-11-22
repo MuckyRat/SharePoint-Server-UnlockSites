@@ -1,4 +1,4 @@
-# SharePoint 2019 Site Lock Script
+# SharePoint 2019 Site Unlock Script
 
 This PowerShell script cycles through all site collections within a specified SharePoint 2019 on-premises web application and removes any read only restrictions that are set. 
 
